@@ -5,6 +5,7 @@
 ## Summary
 * Pull adds 40 yards from boss and kill them.
 * Kill Gehennas.
+* Don't stand in Rain of Fire
 
 ## Dispel
 * Gehennas's curse (curse) - Tank prio - reduces healing taken.
