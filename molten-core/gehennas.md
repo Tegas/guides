@@ -3,9 +3,11 @@
 3 Tanks
 
 ## Summary
-Pull adds 40 yards from boss and kill them.
-Kill Gehennas.
-Dispel Gehennas's curse (curse) - Tank prio - reduces healing taken.
+* Pull adds 40 yards from boss and kill them.
+* Kill Gehennas.
+
+## Dispel
+* Gehennas's curse (curse) - Tank prio - reduces healing taken.
 
 ## Buffs
 * Fire resistance

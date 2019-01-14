@@ -3,8 +3,8 @@
 5 Tanks
 
 ## Summary
-Assign interrupter to each of the 4 adds. Interrupter must stop the heal.
-Pull adds slightly away from Sulfuron to avoid AoE knockdown.
+* Assign interrupter to each of the 4 adds. Interrupter must stop the heal.
+* Pull adds slightly away from Sulfuron to avoid AoE knockdown.
 
 ## Buffs
 * Shadow protection
