@@ -7,7 +7,7 @@
 * Kill lucifron.
 
 ## Dispel
-* Lucifron's curse (curse) - Tank/healer prio.
+* Lucifron's curse (curse) - Tank/healer prio  (doubles ability cost).
 * Impending doom (magic) - Wipes raid if not removed in 10 seconds.
 * Dominate mind (magic) - Mind control.
 

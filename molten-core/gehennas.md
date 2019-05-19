@@ -8,7 +8,7 @@
 * Don't stand in Rain of Fire
 
 ## Dispel
-* Gehennas's curse (curse) - Tank prio - reduces healing taken.
+* Gehennas's curse (curse) - Tank prio - reduces healing taken (75%).
 
 ## Buffs
 * Fire resistance

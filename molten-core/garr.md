@@ -6,7 +6,7 @@
 ## Summary
 * Assign warlocks to banish adds, remaining adds must have tank assigned.
 * Tank Garr in middle of room.
-* Kill adds one at a time by moving them near the wall and killing them at ranged. When they die they inflict 2k damage in 15 yard radius and launching targets in the air.
+* Kill adds one at a time by moving them near the wall and killing them at range. When they die they explode inflicting 2k fire damage in 15 yard radius and launching targets in the air.
 
 ## Dispel
 * Magma Shackles (magic) from tanks that are actively moving adds to the kill location

@@ -5,7 +5,7 @@
 ## Summary
 * Tank Baron 20+ yards from raid.
 * Melee runs in and out to avoid Inferno AoE.
-* Those afflicted with living bomb move 20 yards away under a ledge.
+* Those afflicted with living bomb move 20 yards away under a ledge to explode.
 
 ## Dispel
 * Ignite Mana (magic) - Prio healers
