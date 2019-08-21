@@ -2,5 +2,5 @@
 
 ## Raids
 
-* [Molten core](molten-core/molten-core.md)
-* [Blackwing Lair](blackwing-lair/blackwing-lair.md)
+* [Molten core](molten-core/readme.md)
+* [Blackwing Lair](blackwing-lair/readme.md)

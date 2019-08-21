@@ -24,7 +24,7 @@ Trash
 
 Lucifron
 =========================================================================================
-3 Tanks
+- 3 Tanks
 
 ## Summary
 * Pull adds (Flamewaker Protector) 40 yards from boss and kill them.
@@ -43,7 +43,7 @@ Lucifron
 
 Magmadar
 =========================================================================================
-1 Tank
+- 1 Tank
 
 ## Summary
 * Pull Magmadar to middle of room and turn to side.
@@ -65,7 +65,7 @@ Melee may wish to run in/out of range to avoid fear. The primary danger is runni
 
 Gehennas
 =========================================================================================
-3 Tanks
+- 3 Tanks
 
 ## Summary
 * Pull adds 40 yards from boss and kill them.
@@ -87,8 +87,8 @@ The adds cast "Fist of Ragnaros" which stuns in 8 yards for 4 seconds.
 
 Garr
 =========================================================================================
-1 Main Tank
-8 Off Tanks/Warlocks
+- 1 Main Tank
+- 8 Off Tanks/Warlocks
 
 ## Summary
 * Assign warlocks to banish adds, remaining adds must have tank assigned.
@@ -111,7 +111,7 @@ Garr
 
 Baron Geddon
 =========================================================================================
-1 Tank
+- 1 Tank
 
 ## Summary
 * Tank Baron 20+ yards from raid.
@@ -133,7 +133,7 @@ At 2% you have 5 seconds to kill him or he will explode. Either dps hard or run 
 
 Shazzrah
 =========================================================================================
-3 Tanks
+- 3 Tanks
 
 ## Summary
 * Arrange tanks 30+ yards apart in a triangle.
@@ -155,7 +155,7 @@ Will cast 35 yard silence rougly every 4 arcane explosions.
 
 Sulfuron Harbinger
 =========================================================================================
-5 Tanks
+- 5 Tanks
 
 ## Summary
 * Assign interrupter to each of the 4 adds. Interrupter must stop the heal.
@@ -173,8 +173,8 @@ Spread out sightly to avoid Sulfurons Flame Spear AoE.
 
 Golemagg the Incinerator
 =========================================================================================
-2 Tanks (fire resist)
-2 Off Tanks
+- 2 Tanks (fire resist)
+- 2 Off Tanks
 
 ## Summary
 * 2 Tanks rotate boss to reset Magma splash, swap at 7-9 stacks.
@@ -193,9 +193,9 @@ If the Core Ragers are too close they will have a firely glow effect on their ho
 
 Majordomo
 =========================================================================================
-3 Tanks
-3+ hunters
-3+ mages
+- 3 Tanks
+- 3+ hunters
+- 3+ mages
 
 ## Summary
 * 2 tanks rotate Majordomo to keep him positioned near the center of room.
@@ -217,7 +217,7 @@ Majordomo
 
 Ragnaros
 =========================================================================================
-2 Tanks (Fire Resistance)
+- 2 Tanks (315 Fire Resistance)
 
 ## Summary
 * Tanks rotate as they are knocked back. 
