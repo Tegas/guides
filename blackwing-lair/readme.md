@@ -131,5 +131,36 @@ Chromaggus
 
 Nefarian
 =========================================================================================
+- 4 Tanks
+
+## Summary
+Split raid in half. One per dragon door.
+Designate "nef landing team" consisting of tank, decurser(usually resto druid), and 2 healers. 
+
+### Phase 1 - Kill 42 Drakonids
+* Split raid in half.
+
+Draknoids:
+* Red: Use ranged. (Resists fire. Deals fire damage in a cone.)
+* Bronze: Use ranged. (Resists arcane. Also lowers casting and attack speed.)
+* Blue: Use non-mana. (Resists frost. Drains mana and reduces attack speed.)
+* Green: Use any. (Resists nature. Also casts a stun.)
+* Black: Use non-warlock (Resists shadow and fire. Deals direct (strong) fire damage.)
+
+### Phase 2 - Nefarion
+* Fear ward tank
+* IMMEDIATELY decurse tank
+* Split raid in half.
+* Mana users will randomly get burning adrenaline. Move to 
+
+### Phase 2 - Undead Drakonids
+All dragonoids respawn as undead.
+
+## Buffs
+* Fire resistance
+
+## Note
+* 
+
 
 [Top](#Table-of-Contents)
