@@ -146,26 +146,69 @@ Crimson Laboratories
 * Blackwing Warlock (54k hp) - Summons Demons, Rain of fire, Shadowbolts. (banish the demons)
 * Death Talon Overseer (80k) - Cleave and Fire Blast
 
-
 [Top](#Table-of-Contents)
 
 
 Firemaw
 =========================================================================================
 500k Health
+- 3 Tanks
 
+## Summary
+* Melee wear ony scale cloak.
+* LoS the Flame Buffet to let it reset.
+* Off tank taunts to take Wing Buffet.
+
+## Abilities
+* Flame Buffet - Stacking fire debuff - Increases fire damage taken.
+* Wing Buffet - Knockback/Cone threat drop.
+* Shadow Flame - 5k Shadow damage.
+
+## Buffs
+* Fire resistance
+* Shadow resistance
 
 [Top](#Table-of-Contents)
 
 
 Ebonroc
 =========================================================================================
+500k Health
+- 3 Tanks
+
+## Summary
+* Melee wear ony scale cloak.
+* Off tank taunts when MT has Shadow of Ebonroc.
+
+## Abilities
+* Shadow of Ebonroc - Debuff on tank that heals Ebonroc
+* Wing Buffet - Knockback/Cone threat drop.
+* Shadow Flame - 5k Shadow damage.
+
+## Buffs
+* Fire resistance
+* Shadow resistance
 
 [Top](#Table-of-Contents)
 
 
 Flamegor
 =========================================================================================
+500k Health
+- 3 Tanks
+
+## Summary
+* Melee wear ony scale cloak.
+* Off tank taunts to take Wing Buffet.
+
+## Abilities
+* Frenzy - Debuff on tank that heals Ebonroc.
+* Wing Buffet - Knockback/Cone threat drop.
+* Shadow Flame - 5k Shadow damage.
+
+## Buffs
+* Fire resistance
+* Shadow resistance
 
 [Top](#Table-of-Contents)
 
