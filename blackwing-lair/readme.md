@@ -14,7 +14,7 @@
 
 Razorgore the Untamed
 =========================================================================================
-
+450k Health
 4+ Tanks
 
 ## Summary
@@ -27,11 +27,11 @@ Healers/Ranged in the middle
 
 ### Phase 1
 * Kill everything
-    * Blackwing Mage (7k hp) - Fireball & Arcane explosion
-    * Blackwing Legionnaire (9k hp) - Cleave
-    * Death Talon Dragonspawn (38k hp) - Cleave
+    * Blackwing Mage (4.5k) - Fireball & Arcane explosion
+    * Blackwing Legionnaire (4.5k) - Cleave
+    * Death Talon Dragonspawn (24k) - Cleave
 
-### Phase 3
+### Phase 2
 * Tank razorgore in front of platform (2 tanks required due to conflag).
 * Ranged move behind pillars near entrance.
 * Hide behind pillar to avoid AoE fireball volley.
@@ -50,6 +50,7 @@ Healers/Ranged in the middle
 
 Vaelastrasz the Corrupt
 =========================================================================================
+992k (of 3.3m)
 - 4 Tanks (315 Fire Resist)
 
 ## Summary
@@ -85,18 +86,18 @@ Halls of Strife
 
 ## Summary
 2 Packs of 7 mobs.
-* 2 Death Talon  - Tank
+* 2 Death Talon Flamescale (64k) - Tank
     * Charge Knockback.
-* 1 Death Talon Captain - Hunter kites
+* 1 Death Talon Captain (120k) - Hunter kites
     * Buffs nearby adds.
     * Fire bomb (dispellable)
-* 2 Death Talon Seether - Hunter Kites
+* 2 Death Talon Seether (56k) - Hunter Kites
     * Enrages (tranq)
-* 2 Death Talon Wyrmkin (only ones with mana) - Druids Hibernate spam
+* 2 Death Talon Wyrmkin (54k) - Druids Hibernate spam (only ones with mana) 
     * Fireball Volley.
 
-
 [Top](#Table-of-contents)
+
 
 Suppresion Room
 =========================================================================================
@@ -113,7 +114,7 @@ Suppresion Room
 
 ## Mobs
 * Death Talon hatchers (54k hp, 20 minute spawn) - Stacking aoe(15 yard) fire dot and flamestrike
-* Blackwing Taskmaster (52k hp, 20 minute spawn) - Healing circle and shadow shock
+* Blackwing Taskmaster (48k hp, 20 minute spawn) - Healing circle and shadow shock
 * Corrupted Whelp - (4.5k hp)
 
 [Top](#Table-of-contents)
@@ -121,6 +122,7 @@ Suppresion Room
 
 Broodlord Lashlayer
 =========================================================================================
+454k Health
 - 2+ Tanks
 
 ## Summary
@@ -137,8 +139,21 @@ Broodlord Lashlayer
 [Top](#Table-of-Contents)
 
 
+Crimson Laboratories
+=========================================================================================
+* Blackwing Technicians (7.5k hp) - Bomb and Bottle of Poison (stacking poison)
+* Blackwing Spellbinders (56k hp) - Immune to magic. Cast Flamestrike and Polymorph.
+* Blackwing Warlock (54k hp) - Summons Demons, Rain of fire, Shadowbolts. (banish the demons)
+* Death Talon Overseer (80k) - Cleave and Fire Blast
+
+
+[Top](#Table-of-Contents)
+
+
 Firemaw
 =========================================================================================
+500k Health
+
 
 [Top](#Table-of-Contents)
 
