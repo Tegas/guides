@@ -100,22 +100,39 @@ Halls of Strife
 
 Suppresion Room
 =========================================================================================
-- 3 Tanks (2 fire reist, 1 aoe)
+- 3 Tanks (2 fire resist, 1 aoe)
 - 3 Sheep targets
 - 1 Hunter pulling
 
 ## Summary
+* Rogues rotate to disarm suppression devices (-20% move/cast debuff).
+* Pull mobs when solo in a lane.
+* Tank dragonkin away from raid.
+* Aoe tank holds whelps until a break is needed.
+* Sheep taskmasters, kill 1 at a time, interrupt the heal.
 
-### Mobs
-* Death Talon hatchers (20 minute respawn)
-* 
+## Mobs
+* Death Talon hatchers (54k hp, 20 minute spawn) - Stacking aoe(15 yard) fire dot and flamestrike
+* Blackwing Taskmaster (52k hp, 20 minute spawn) - Healing circle and shadow shock
+* Corrupted Whelp - (4.5k hp)
 
 [Top](#Table-of-contents)
 
 
-
 Broodlord Lashlayer
 =========================================================================================
+- 2+ Tanks
+
+## Summary
+* Position Broodlord on right of doorway.
+* Ranged/healers on left of doorway.
+* Manage threat.
+
+## Abilities
+* Cleave
+* Blast Wave
+* Mortal Strike - 50% reduced healing. Immediately power word:shield.
+* Knock Away - Knockback and 50% Threat drop.
 
 [Top](#Table-of-Contents)
 
