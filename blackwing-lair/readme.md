@@ -215,6 +215,32 @@ Flamegor
 
 Chromaggus
 =========================================================================================
+744k Health.
+1 - Tank
+
+## Summary
+* Split melee and casters.
+* Decurse/dispel/cleanse everything.
+* Frenzy every 10-15 seconds (tranq shot)
+* Enrage at 20%
+
+## Breaths
+* Incinerate - 4k Fire damage
+* Corrosive Acid - 1k Nature/3s for 15 seconds. 5k reduced armor
+* Blue - 80% Attack speed reduction.
+* Ignite Flesh - 750 Fire/3seconds for 60 seconds. Can stack
+* Time Lapse - 6 Second Stun, reduces threat.
+
+## Afflictions
+* Red - 50 fire damage /3s. Heals Chromag on death.
+* Green - Healing reduced 50%, 250 Nature Damage / 5s.
+* Blue - Move/cast slowed. 50 mana/s drained.
+* Black - 100% increased fire damage taken.
+* Bronze - 4s Stun at random intervals (lasts 10 minutes).
+
+## Buffs
+* Fire resistance
+* Shadow resistance
 
 [Top](#Table-of-Contents)
 
